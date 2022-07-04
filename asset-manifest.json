@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/static/css/main.61e5405e.chunk.css",
-    "main.js": "/static/js/main.8589604c.chunk.js",
-    "main.js.map": "/static/js/main.8589604c.chunk.js.map",
+    "main.js": "/static/js/main.4c3936c1.chunk.js",
+    "main.js.map": "/static/js/main.4c3936c1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8fa36d75.js",
     "runtime-main.js.map": "/static/js/runtime-main.8fa36d75.js.map",
     "static/css/2.038361d8.chunk.css": "/static/css/2.038361d8.chunk.css",
-    "static/js/2.08aa8704.chunk.js": "/static/js/2.08aa8704.chunk.js",
-    "static/js/2.08aa8704.chunk.js.map": "/static/js/2.08aa8704.chunk.js.map",
+    "static/js/2.9967231c.chunk.js": "/static/js/2.9967231c.chunk.js",
+    "static/js/2.9967231c.chunk.js.map": "/static/js/2.9967231c.chunk.js.map",
     "static/js/3.ec476437.chunk.js": "/static/js/3.ec476437.chunk.js",
     "static/js/3.ec476437.chunk.js.map": "/static/js/3.ec476437.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.038361d8.chunk.css.map": "/static/css/2.038361d8.chunk.css.map",
     "static/css/main.61e5405e.chunk.css.map": "/static/css/main.61e5405e.chunk.css.map",
-    "static/js/2.08aa8704.chunk.js.LICENSE.txt": "/static/js/2.08aa8704.chunk.js.LICENSE.txt",
+    "static/js/2.9967231c.chunk.js.LICENSE.txt": "/static/js/2.9967231c.chunk.js.LICENSE.txt",
     "static/media/logoblueleaf.22f13690.jpeg": "/static/media/logoblueleaf.22f13690.jpeg",
     "static/media/photo1.89a3f981.svg": "/static/media/photo1.89a3f981.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8fa36d75.js",
     "static/css/2.038361d8.chunk.css",
-    "static/js/2.08aa8704.chunk.js",
+    "static/js/2.9967231c.chunk.js",
     "static/css/main.61e5405e.chunk.css",
-    "static/js/main.8589604c.chunk.js"
+    "static/js/main.4c3936c1.chunk.js"
   ]
 }
